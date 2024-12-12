@@ -1,0 +1,7 @@
+.main_card{
+    display: flex;
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 30px;
+    justify-content: space-between;
+}
